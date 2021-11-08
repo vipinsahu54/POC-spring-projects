@@ -1,0 +1,6 @@
+com\infogain\Assignment\controller\ProductController.class
+com\infogain\Assignment\model\Product.class
+com\infogain\Assignment\AssignmentApplication.class
+com\infogain\Assignment\service\ProductService.class
+com\infogain\Assignment\config\BeanConfiguration.class
+com\infogain\Assignment\service\ProductServiceImpl.class
