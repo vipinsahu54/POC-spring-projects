@@ -2,8 +2,6 @@
 //
 //import java.util.List;
 //
-//import com.tapandeat.foodtray.model.User;
-//
 //public class UserServiceFallback implements UserService{
 //
 //	@Override

@@ -5,6 +5,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 @Entity
 public class User {
 
@@ -46,6 +48,8 @@ public class User {
 	public void setEmail(String email) {
 		this.email = email;
 	}
+	
+	
 	@Override
 	public String toString() {
 		return "User [userId=" + userId + ", name=" + name + ", type=" + type + ", password=" + password + ", email="

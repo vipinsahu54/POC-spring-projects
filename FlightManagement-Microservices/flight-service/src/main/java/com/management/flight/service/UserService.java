@@ -1,4 +1,4 @@
-//package com.tapandeat.foodtray.service;
+//package com.management.flight.service;
 //
 //import java.util.List;
 //
@@ -7,7 +7,7 @@
 //import org.springframework.web.bind.annotation.RequestMapping;
 //import org.springframework.web.bind.annotation.RequestMethod;
 //
-//import com.tapandeat.foodtray.model.User;
+//import com.management.flight.model.User;
 //
 //
 //@FeignClient(value="USER-SERVICE", fallback=UserServiceFallback.class)
